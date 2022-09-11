@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Discord-Dashboard/static/css/main.032d3e52.css",
+    "main.js": "/Discord-Dashboard/static/js/main.16c1f197.js",
+    "index.html": "/Discord-Dashboard/index.html",
+    "main.032d3e52.css.map": "/Discord-Dashboard/static/css/main.032d3e52.css.map",
+    "main.16c1f197.js.map": "/Discord-Dashboard/static/js/main.16c1f197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032d3e52.css",
+    "static/js/main.16c1f197.js"
+  ]
+}
